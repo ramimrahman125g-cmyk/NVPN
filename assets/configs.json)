@@ -1,0 +1,11 @@
+{
+  "app_name": "RVPN",
+  "version": "1.0.0",
+  "configs": [
+    {
+      "name": "Stun Custom Bypass",
+      "type": "VLESS/Tunnel",
+      "url": "https://s.stun.su/9WFRVDff1SX6RKzG"
+    }
+  ]
+}
